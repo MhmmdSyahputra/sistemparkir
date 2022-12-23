@@ -2,6 +2,7 @@ import 'dart:typed_data';
 
 import 'package:flutter/material.dart';
 import 'package:screenshot/screenshot.dart';
+// ignore: depend_on_referenced_packages
 import 'package:rtsp_demo/screen/liveScreen.dart';
 
 // import 'package:webview_flutter/webview_flutter.dart';
